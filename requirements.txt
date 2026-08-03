@@ -2,10 +2,10 @@ streamlit
 langchain 
 langchain_core 
 langchain-community 
-langchain-groq  
+langchain-groq 
 python-dotenv
-openpyxl 
-langchain-huggingface 
+langchain_huggingface 
 faiss-cpu 
 pypdf 
-sentence-transformers 
+sentence-transformers
+openpyxl
